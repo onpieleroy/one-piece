@@ -1,0 +1,2 @@
+0 MANGA
+1 ANIME
